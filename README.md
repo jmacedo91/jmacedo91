@@ -5,8 +5,8 @@
 - 🐍 Estou estudando Python com foco em análise de dados.
 <div>
   <a href="https://github.com/jmacedo91">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jmacedo91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmacedo91&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jmacedo91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmacedo91&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
